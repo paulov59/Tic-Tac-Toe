@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-MiniMax
-Implementação em python do algoritmo minimax aplicado ao jogo da velha.
+# Tic-Tac-Toe
+Implementações do jogo da velha em python, incluindo versão usando o algoritmo minimax.
